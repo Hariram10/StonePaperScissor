@@ -1,0 +1,8 @@
+ CAtch the DOM -> storing for future use
+
+ random function -> generates random no. btw 0 & 1
+ floor func -> round off
+
+classlist in JS
+
+set time out function
